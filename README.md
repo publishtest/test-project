@@ -6,3 +6,5 @@ main features
 # another header
 text line
 another text
+- bullet 1
+- bullet 2
